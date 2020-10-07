@@ -1,6 +1,5 @@
 # To-do-List-app
-It is a basic to-do list app which is made by using HTML, CSS and Javascript. It doesn't have local storage right now and I am working on it.
-
+It is a basic to-do list app which is made by using HTML, CSS and Javascript. 
 You can perform the following tasks by using the app:
 * Add the tasks you want to get done.
 * Mark all those tasks that has been done.
